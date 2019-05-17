@@ -133,3 +133,34 @@ body {
     font-weight: 700;
     font-size: 16px;
 }
+.number {
+    /* text-align: center; */
+    color:#ff6b53;
+    font-size: 50px;
+    border-bottom: 1px solid darkgray;
+}
+.skills {
+    text-align: right;
+    /* padding:  10px; */
+    color: black;
+}
+.coding {
+    width: 90%;
+    background-color: #ff6b53;
+}
+.design {
+    width: 85%;
+    background-color: #ff6b53;
+}
+.singing {
+    width: 100%;
+    background-color: #ff6b53;
+}
+.building {
+    width: 72%;
+    background-color: #ff6b53;
+}
+.demolishing {
+    width: 91%;
+    background-color: #ff6b53;
+}
