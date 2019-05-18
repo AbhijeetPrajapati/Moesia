@@ -164,3 +164,21 @@ body {
     width: 91%;
     background-color: #ff6b53;
 }
+.blog1-heading {
+    text-align: center;
+    font-weight: 1;
+    /* font-size: 35px; */
+    margin: 20px 0px;
+    padding: 0px;
+}
+.blog1-heading-p {
+    text-align: center;
+    margin: 20px 0px;
+    padding: 0px;
+    /* font-family: fantasy; */
+    font-size: large;
+    font-weight: 300;
+}
+.shadow {
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
+}
