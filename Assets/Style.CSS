@@ -182,3 +182,49 @@ body {
 .shadow {
     box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
 }
+.bgimage03 {
+    background-image: url("./Images/temp01.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    display: flow-root;
+    /* padding: 0px;
+    margin: 0px; */
+}
+.template-heading {
+    font-family:monospace;
+    font-size: 30px;
+    color:  #D8D8D8;
+    text-shadow: 0 0 2px #222, 0 0 2px #222;
+    text-align: center;
+    margin-top: 100px;
+    width: 100%;
+    /* margin-bottom: 30px; */
+}
+.template-bgimage {
+    background-image: url("./Images/temp02.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+    display: flow-root;
+}
+.template-style {
+    /* position: absolute; */
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    /* width: -webkit-fill-available; */
+    margin-top: 9%;
+}
+.template-bgimage0 {
+    background-image: url("./Images/temp03.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+    display: flow-root;
+    /* padding: 0px;
+    margin: 0px; */
+}
